@@ -3,7 +3,7 @@
 Implementation of the 2048 game in C++ and QML. The program can be built with Visual Studio.
 
 <p align="center">
-    <img src="demo/demo.gif" width=500/>
+    <img src="demo/demo.gif" width=300/>
 </p>
 
 ## Features
