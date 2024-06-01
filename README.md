@@ -2,6 +2,8 @@
 
 Implementation of the 2048 game in C++ and QML. The program can be built with Visual Studio.
 
+<img src="demo/demo.gif"/>
+
 ## Features
 
 - Play the 2048 game with arrow keys or ZQSD keys.
